@@ -3,5 +3,5 @@ Petit outil qui supprime les métadonnées d’un fichier PDF, pour protéger l�
 <p align="center">
   <img src="lucia-rufine-logo.jpg" alt="lucia-rufine" width="400"/>
 </p></br>
-<a href="https://google.fr">Cliquez ici</a>
+<a href="https://luciarufine.netlify.app/">Cliquez ici</a>
 </p>
