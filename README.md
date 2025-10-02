@@ -41,27 +41,28 @@ requirements.txt contient actuellement : PyPDF2
 
 ## Usage 
 
+
 Nettoyer un fichier PDF :
 
-bash```
+```bash
 python clean_metadata.py --input examples/sample.pdf
 ```
 
 Nettoyer tous les PDF d'un dossier :
 
-bash```
+```bash
 python clean_metadata.py --input examples/ --output cleaned/
 ```
 
 Exécution en mode simulation (dry-run) :
 
-bash```
+```bash
 python clean_metadata.py --input examples/sample.pdf --dry-run
 ```
 
 Remplacer les métadonnées par des valeurs personnalisées :
 
-bash```
+```bash
 python clean_metadata.py --input examples/sample.pdf --set-title "Anonyme" --set-author "N/A"
 ```
 
